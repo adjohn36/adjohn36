@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background-color: black;
+    color: white;
+  }
+  
+  .pokemon-info {
+    width: 50%;
+    text-align: center;
+  }
+  .pokemon-stats {
+    width: 50%;
+  }
+  
